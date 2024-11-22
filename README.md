@@ -1,5 +1,7 @@
 # PRS-calc
 
+Final project for bme 160 class
+
 Calculating Polygenic Risk Scores for Insulin Sensitivity
 Polygenic risk scores (PRS) are increasingly utilized in genetic research and clinical practice to
 predict the likelihood of individuals developing complex diseases based on their genetic
